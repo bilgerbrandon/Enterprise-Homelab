@@ -1,0 +1,3 @@
+# Jellyfin
+
+> Documentation coming soon.

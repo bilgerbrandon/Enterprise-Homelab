@@ -1,10 +1,30 @@
 # Brandon's Enterprise Homelab
 
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-E95420?logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-29.x-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
+
 A hands-on homelab project focused on virtualization, networking, containerization, self-hosting, monitoring, and infrastructure documentation.
 
 This repository documents the complete build process, including hardware selection, system configuration, troubleshooting, verification, screenshots, lessons learned, and project milestones.
 
 ---
+
+## Table of Contents
+
+- [Project Goals](#project-goals)
+- [Current Architecture](#current-architecture)
+- [Current Environment](#current-environment)
+- [Project Progress](#project-progress)
+- [Completed Milestones](#completed-milestones)
+- [Planned Services](#planned-services)
+- [Repository Structure](#repository-structure)
+- [Documentation Workflow](#documentation-workflow)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Project Status](#project-status)
 
 ## Project Goals
 
@@ -59,7 +79,21 @@ A detailed network diagram will be added as the environment expands.
 
 ---
 
-## Completed Milestones
+## Project Progress
+
+| Phase | Status |
+|-------|:------:|
+| Internet Upgrade | ✅ |
+| Hardware Planning | ✅ |
+| Proxmox Installation | ✅ |
+| Ubuntu Docker VM | ✅ |
+| Docker Installation | ✅ |
+| Portainer | ⏳ |
+| Docker Compose | ⏳ |
+| Homepage Dashboard | ⏳ |
+| Media Stack | ⏳ |
+| Monitoring | ⏳ |
+| Backup Strategy | ⏳ |
 
 ### Virtualization
 

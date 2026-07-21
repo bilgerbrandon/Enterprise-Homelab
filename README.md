@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Enterprise Homelab Banner" width="100%">
+</p>
+
 # Brandon's Enterprise Homelab
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white)

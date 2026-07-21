@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/banner.png" alt="Enterprise Homelab Banner" width="100%">
-</p>
+<img src="images/banner.png" alt="Enterprise Homelab Banner" width="100%">
 
 # Brandon's Enterprise Homelab
 
